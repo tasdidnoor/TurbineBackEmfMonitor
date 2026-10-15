@@ -1,5 +1,5 @@
 // Wind turbine monitor - ESP32-C3 SuperMini
-// Motor back-EMF on GPIO 1 (other wire to GND), OLED on I2C
+// Motor back-EMF on GPIO 0 (other wire to GND), OLED on I2C
 
 #include <Arduino.h>
 #include <Wire.h>
