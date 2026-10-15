@@ -78,6 +78,7 @@ The serial monitor runs at 115200 baud and prints the voltage in mV.
 - `main.cpp` - the main program
 - `turbine_test.cpp` - a small test sketch that only prints voltage readings. Useful for checking your own motor and picking thresholds. Each sketch needs to be in its own folder with the same name as the file.
 - `sim.py` - quick simulation (Includes LLM code)
+- `Wind_Turbine.stl` - 3d printable model of the wind-turbine prototype that was used.
 
 ## Limitations
 
